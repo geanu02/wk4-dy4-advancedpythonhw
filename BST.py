@@ -64,4 +64,4 @@ bst.add_node(120)
 bst.add_node(110)
 
 print(bst.root.value)
-print(bst.get_max())
+print(bst.print_in_order())
